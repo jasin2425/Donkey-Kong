@@ -1,0 +1,54 @@
+﻿D:\visualstudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (szablon2vs19.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+E:\d\Donkey-Kong\main.cpp(246,75): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(247,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(510,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(525,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(570,35): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(573,35): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(576,35): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(569,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(572,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(575,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(584,36): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(583,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(594,36): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(593,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(630,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(682,21): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(681,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(687,6): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(686,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(690,6): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(689,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(709,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(723,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(769,21): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(768,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(774,6): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(773,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(777,6): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(776,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(796,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(863,21): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(862,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(868,6): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(867,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(871,6): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(870,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(887,35): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(889,35): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(890,35): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(894,35): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(897,35): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(886,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(888,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(893,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(896,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(1258,46): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(1259,48): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(1308,37): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\d\Donkey-Kong\main.cpp(1307,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\d\Donkey-Kong\main.cpp(961,3): warning C4101: "pietra_lvl1": lokalna zmienna, do której nie istnieje odwołanie
+E:\d\Donkey-Kong\main.cpp(954): warning C4715: "main_menu”: niewszystkie ścieżki kodu zwracają wartość
+  program.vcxproj -> E:\d\Donkey-Kong\x64\Debug\program.exe
